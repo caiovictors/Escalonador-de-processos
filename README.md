@@ -1,7 +1,7 @@
-# Escalonador-de-processos
+# Escalonador de processos
 Escalonador de processos: FCFS, SJF e RR para Sistemas Operacionais
 
-O modelo para o texto de entrada é
+Modelo para o texto de entrada em .txt:
 
 tempo de chegada (espaço) duração do processo
 ex.: 
